@@ -33,8 +33,14 @@ The KNeighborsClassifier is slightly more accurate than the custom one
 
 # Part II
 ## Plot from plots.py
-![]()
+Plot of Cities (Training Data)
+![](plot1.png)
 
-# Part II
-## Plot from plots2.py
-![]()
+K = 1
+![](plot2.png)
+
+K = 3
+![](plot3.png)
+
+K = 5
+![](plot4.png)
