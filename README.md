@@ -31,16 +31,16 @@ $ python3 knn2.py
 The KNeighborsClassifier is slightly more accurate than the custom one
 
 
-# Part II
-## Plot from plots.py
-Plot of Cities (Training Data)
+# Part II (Plots from plot.py)
+
+## Plot of Cities (Training Data)
 ![](plot1.png)
 
-K = 1
+## K = 1
 ![](plot2.png)
 
-K = 3
+## K = 3
 ![](plot3.png)
 
-K = 5
+## K = 5
 ![](plot4.png)
